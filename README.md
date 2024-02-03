@@ -1,6 +1,6 @@
 Front end for a SPA I deployed in May 2022 on a shared-hosting Namecheap server. Client was a dental practice.
 
-Key features: Responsive UI; State management; Internationalization, Two-way data bindings; Routing; Responsive communication with back end (error handling, alerts, loading indicators, pop ups, etc ...).
+Key features: Responsive UI; State management; Internationalization; Two-way data bindings; Routing; Responsive communication with back end (error handling, alerts, loading indicators, pop ups, etc ...).
 
 Back End repo: https://github.com/IsmailSalehCode/back_end-dental_practice
 
